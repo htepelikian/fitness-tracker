@@ -3,6 +3,8 @@
 WELCOME TO THE FITNESS TRACKER!
 For the working busy-bee who wants to know all about the statistics of their fitness. Track your weights, runs, and progress with this easy app!
 
+https://hidden-plateau-15424.herokuapp.com
+
 
 
 ## Installation
@@ -25,7 +27,7 @@ For the working busy-bee who wants to know all about the statistics of their fit
 
 Alternative link: 
 
-<a href ="https://sheltered-fortress-29761.herokuapp.com/">https://sheltered-fortress-29761.herokuapp.com/</a>
+<a href ="https://hidden-plateau-15424.herokuapp.com/">https://hidden-plateau-15424.herokuapp.com/</a>
 
 
 ## Built With
