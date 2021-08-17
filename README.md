@@ -25,10 +25,6 @@ https://hidden-plateau-15424.herokuapp.com
 
 ## Usage
 
-Alternative link: 
-
-<a href ="https://hidden-plateau-15424.herokuapp.com/">
-
 
 ## Built With
 
