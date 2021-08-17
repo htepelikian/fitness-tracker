@@ -27,7 +27,7 @@ https://hidden-plateau-15424.herokuapp.com
 
 Alternative link: 
 
-<a href ="https://hidden-plateau-15424.herokuapp.com/">https://hidden-plateau-15424.herokuapp.com/</a>
+<a href ="https://hidden-plateau-15424.herokuapp.com/">
 
 
 ## Built With
