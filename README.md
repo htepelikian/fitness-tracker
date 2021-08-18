@@ -8,6 +8,9 @@ For the working busy-bee who wants to know all about the statistics of their fit
 <img width="1127" alt="Screen Shot 2021-08-17 at 6 57 07 PM" src="https://user-images.githubusercontent.com/85534144/129830741-f273053f-b8de-41b9-b16c-f94301ef3bee.png">
 <img width="1124" alt="Screen Shot 2021-08-17 at 6 56 59 PM" src="https://user-images.githubusercontent.com/85534144/129830745-9f3d47fe-21c6-4d9a-bd86-f91c2262f8ee.png">
 
+![fitness tracker gif](https://user-images.githubusercontent.com/85534144/129832188-4a89e8a6-cecc-4438-a8a9-2c8ce7196cdf.gif)
+
+
 
 https://hidden-plateau-15424.herokuapp.com
 
